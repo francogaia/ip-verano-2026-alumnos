@@ -11,7 +11,7 @@ def home(request):
     """
     Vista principal que muestra la galería de personajes de Los Simpsons.
     
-    Esta función debe obtener el listado de imágenes desde la capa de servicios
+    Esta función debe obtener el listado de imágenes desde la capa de servicios :)
     y también el listado de favoritos del usuario, para luego enviarlo al template 'home.html'.
     Recordar que los listados deben pasarse en el contexto con las claves 'images' y 'favourite_list'.
     """
